@@ -6,7 +6,7 @@ import string
 class MailGW():
     
     def __init__(self):
-        self.base_url = "https://api.mail.gw"#can be
+        self.base_url = "https://api.mail.gw" # can be used with "api.mail.tm" too without major problems
         
     def gen_random_password(self):
         random_number = random.randint(1000, 9999)
