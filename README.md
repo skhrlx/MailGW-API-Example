@@ -1,2 +1,4 @@
 # MailGW-API-Example
-Unfinished project that I found on my shelf
+Unfinished old project that I found on my shelf
+
+Maybe it can help you to understand how to use their API, or something like that
